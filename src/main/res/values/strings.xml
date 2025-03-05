@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Lab_ConstraintLayout</string>
+    <string name="to_label">To:</string>
+    <string name="email_hint">Enter email address</string>
+    <string name="subject_hint">Subject</string>
+    <string name="message_hint">Message</string>
+    <string name="send_button">Send</string>
+
+    <string name="name">Name of your pet</string>
+    <string name="breed">Bred of your pet</string>
+    <string name="daily_walks">Number of walks on a day</string>
+    <string name="food">Type of food</string>
+    <string name="weight">Weight of your pet</string>
+    <string name="id_Owner">ID of you (owner)</string>
+    <string name="description">Description of your pet</string>
+    <string name="registerPet">Register Pet</string>
+
+
+</resources>
